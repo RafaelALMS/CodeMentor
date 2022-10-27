@@ -1,0 +1,46 @@
+.BigSguare
+{
+    display: grid;
+    place-items: center;
+    background-color: white;
+    width: 200px;
+    height: 300px;
+    border-radius: 15px;
+}
+.QrCode
+{
+
+    width: 200px;;
+    height: auto
+}
+.qrcode
+{
+    margin: 25px;
+    border-radius: 10px;
+    width:70%;
+    height: auto;
+}
+
+.Body1
+{
+    padding-top: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8A94A8 ;
+    font-size: 13px;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.FirstText
+{
+    text-align: center;
+}
+.SecondText
+{
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+
+}
