@@ -1,0 +1,36 @@
+.Tudo
+{
+    background-color: beige;
+    display: flex;
+    align-items: baseline;
+    align-content: flex-end;
+}
+.Principal
+{
+    background-color: gray;
+    height: 50%;
+    width: 25%;
+    text-align: center;
+    flex-wrap: wrap;
+    border-bottom: 15px;
+       
+}
+
+.PerfurmIMG
+{
+
+    height: 25%;
+    width: 10%;
+    border-radius: 15%;
+}
+.Cart
+{
+    height: 30px;
+    width: 100px;
+    background-color: green;
+    
+}
+.Bold
+{
+    font-weight: bolder;
+}
